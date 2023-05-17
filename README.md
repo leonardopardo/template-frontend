@@ -14,11 +14,7 @@ El repositorio ya cuenta con los componentes construidos en react en el template
 3. Todos los formularios debe estar validados
 4. Revisar en dentro de las carpetas los ejemplos existentes
 5. No perder la estética general del template
-6. Revisar en  
-
-
-
-![Diagrama de Casos de Uso]('/assets/cu_inmobiliarias.jpg')
+6. Revisar en  [https://falconreact.prium.me](Falcon) los componentes del template
 
 ---
 
